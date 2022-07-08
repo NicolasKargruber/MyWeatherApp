@@ -170,6 +170,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Sunrise"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="12dp" />
 
                         <TextView
@@ -177,6 +178,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="06:40 AM"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="14dp" />
                     </LinearLayout>
 
@@ -207,6 +209,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Sunset"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="12dp" />
 
                         <TextView
@@ -214,6 +217,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="06:40 AM"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="14dp" />
                     </LinearLayout>
 
@@ -244,6 +248,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Wind"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="12dp" />
 
                         <TextView
@@ -251,6 +256,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="06:40 AM"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="14dp" />
                     </LinearLayout>
                 </LinearLayout>
@@ -288,6 +294,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Pressure"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="12dp" />
 
                         <TextView
@@ -295,6 +302,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="06:40 AM"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="14dp" />
                     </LinearLayout>
 
@@ -325,6 +333,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Humidity"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="12sp" />
 
                         <TextView
@@ -332,6 +341,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="06:40 AM"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="14sp" />
                     </LinearLayout>
 
@@ -362,6 +372,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Created By"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="12sp" />
 
                         <TextView
@@ -369,6 +380,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Nicolas"
+                            android:textColor="?attr/colorOnPrimary"
                             android:textSize="14sp" />
                     </LinearLayout>
                 </LinearLayout>
